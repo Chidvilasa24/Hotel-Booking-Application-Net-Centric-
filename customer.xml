@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer>
+    <customer category="family">
+        <occupancy>4</occupancy>
+        <ExistingCustomer>Yes</ExistingCustomer>
+        <RoomType>Deluxe</RoomType>
+        <AdditionalInfo>nnnauhhduhdannn&apos;nnnnnnnnnnnnnnnnnnnnnnn&apos;nnnnnnnnnnnnnnnnnnn<p>hello</p>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+        nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn</AdditionalInfo>
+        <currency>Rupees</currency>
+    </customer>
+
+    
+
+    <customer category="couple">
+        <occupancy>2</occupancy>
+        <ExistingCustomer>No</ExistingCustomer>
+        <RoomType>Suite</RoomType>
+        <AdditionalInfo>nnnauhhduhdannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<p>hello</p>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+        nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn</AdditionalInfo>
+        <currency>Rupees</currency>
+    </customer>
+</customer>
+
+<!--Hi this is a hotel booking application-->

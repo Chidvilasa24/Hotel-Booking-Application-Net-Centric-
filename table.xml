@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+    <table category="private">
+        <tableno>T121</tableno>
+        <NoOfSeats>2</NoOfSeats>
+        <Price>6000</Price>
+    </table>
+
+    <table category="general">
+        <tableno>T12</tableno>
+        <NoOfSeats>4</NoOfSeats>
+        <Price>3000</Price>
+    </table>
+</table>

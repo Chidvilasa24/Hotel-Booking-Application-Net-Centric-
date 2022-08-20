@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE address SYSTEM "address.dtd">
+<room>
+    <rid>R123</rid>
+    <floor>3</floor>
+    <heading>Room Floor</heading>
+    <body>Room is in this floor</body>
+    <copyright>
+        <year>2022</year>
+        <companyname>Bright solutions</companyname>
+    </copyright>
+</room>

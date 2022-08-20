@@ -1,0 +1,7 @@
+<!DOCTYPE address [
+<!ELEMENT room (rid, floor, heading, body)>
+<!ELEMENT rid (#PCDATA)>
+<!ELEMENT floor (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT copyright (#PCDATA)>
+]>
