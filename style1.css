@@ -16,8 +16,8 @@
   
   .super-flex-container > div a img{
     align-items: center;
-    width: 160px;
-    height: 55px;
+    width: 150px;
+    height: 50px;
   }
 
   .flex-container {
@@ -31,16 +31,16 @@
     align-items:flex-end;
     color:honeydew;
     width: 140px;
-    height: 55px;
+    height: 50px;
     margin: 2px;
     text-align: center;
-    font-size: 22px; 
+    font-size: 20px; 
   }
 
   a{
     text-decoration: none;
     color:honeydew;
-    font-size: 23px; 
+    font-size: 20px; 
   }
 
   .desc-super-flex-container {
